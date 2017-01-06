@@ -1,0 +1,18 @@
+{
+    "name": "kuffel/phpapp",
+    "description": "Simple PHP base application with slim.",
+    "version" : "0.0.1",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kuffel",
+            "email": "adam@kuffel.eu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "slim/slim": "^3.7",
+        "twig/twig": "^1.30"
+    }
+}
