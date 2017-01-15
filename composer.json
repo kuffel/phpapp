@@ -13,6 +13,7 @@
     "minimum-stability": "dev",
     "require": {
         "slim/slim": "^3.7",
-        "twig/twig": "^1.30"
+        "twig/twig": "^1.30",
+        "phpunit/phpunit": "^5.7"
     }
 }
